@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiongyu/CLionProjects/TestChain/Block.h
+cstdint
+-
+string
+-
+sstream
+-
+iostream
+-
+
+/Users/xiongyu/CLionProjects/TestChain/Blockchain.h
+cstdint
+-
+vector
+-
+Block.h
+/Users/xiongyu/CLionProjects/TestChain/Block.h
+
+/Users/xiongyu/CLionProjects/TestChain/main.cpp
+Blockchain.h
+/Users/xiongyu/CLionProjects/TestChain/Blockchain.h
+

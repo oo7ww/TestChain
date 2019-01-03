@@ -1,0 +1,3 @@
+/Users/xiongyu/CLionProjects/TestChain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiongyu/CLionProjects/TestChain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiongyu/CLionProjects/TestChain/cmake-build-debug/CMakeFiles/TestChain.dir
